@@ -1,0 +1,40 @@
+h1{
+    width: 273px;
+    height: 40px;
+    margin-left: 800px;
+    margin-top: 400px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+}
+
+.container{
+    box-sizing: border-box;
+    width: 550px;
+    height: 800px;
+    margin-left: 650px;
+    margin-top: -400px;
+    background-color: #fafafa;
+    border: 1px solid #dcdcdc;
+}
+
+p{
+    width: 476px;
+    height: 311px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 23px;
+    color: #000000;
+    margin-top: 430px;
+    margin-left: 30px; 
+}
+
+img{
+    width: 160px;
+    height: 146px;
+    margin-left: 190px;
+    margin-top: -650px;
+}
